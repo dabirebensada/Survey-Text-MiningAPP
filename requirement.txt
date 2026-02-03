@@ -1,0 +1,18 @@
+# --- Base & Data Manipulation ---
+pandas
+numpy
+
+# --- Web Framework ---
+streamlit
+
+# --- Visualisation & Graphiques ---
+plotly
+matplotlib
+wordcloud
+
+# --- Traitement du Langage Naturel (NLP) ---
+nltk
+
+# --- Exports & Fichiers ---
+xlsxwriter
+openpyxl
